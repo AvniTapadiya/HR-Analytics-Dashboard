@@ -1,6 +1,6 @@
 **HR Analytics Dashboard**
-**
-Project Overview:-**
+
+**Project Overview:-**
 
 This project provides an in-depth analysis of HR data, focusing on employee attrition trends, salary distribution, and workforce demographics. The Power BI dashboard offers key insights into employee retention, satisfaction levels, and attrition patterns based on various factors such as age, job role, salary, and years of experience.
 
